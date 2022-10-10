@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="https://telegra.ph/file/cdfd999b7a706889ee81c.jpg" alt="MN BOTZ LOGO">
+  <img src="https://telegra.ph/file/5725b745fd0a00d0e6977.jpg" alt="HB BOTZ LOGO">
 
 </p>
 
