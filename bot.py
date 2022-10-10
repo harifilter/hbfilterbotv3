@@ -78,7 +78,7 @@ class Bot(Client):
 
         await super().stop()
 
-        logging.info("🚀Restarting..STARLIGHT-BOT💥")
+        logging.info("🚀Restarting..hbfilterbotv3💥")
 
 app = Bot()
 
