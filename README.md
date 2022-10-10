@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐇𝐁𝐅𝐈𝐋𝐓𝐄𝐑+𝐁𝐎𝐓𝐕𝟑!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝗧𝗘𝗔𝗠+𝐒𝐓𝐀𝐑𝐋𝐈𝐆𝐇𝐓+𝗕𝗢𝗧!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝗧𝗚+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝗪𝗘𝗟𝗖𝗢𝗠+𝗧𝗢+𝐇𝐁𝐅𝐈𝐋𝐓𝐄𝐑+𝐁𝐎𝐓𝐕𝟑!;𝗖𝗥𝗘𝗔𝗧𝗘𝗗+𝗕𝗬+𝐇𝐀𝐑𝐈+𝐒𝐀𝐈𝐁𝐔𝐓𝐇𝐄𝐄𝐍!;𝗔+𝗦𝗜𝗠𝗣𝗟𝗘+𝐇𝐁+𝗔𝗨𝗧𝗢𝗙𝗜𝗟𝗧𝗘𝗥+𝗕𝗢𝗧!)</p>
 
 <p align="center">
 
